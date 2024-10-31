@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nf-captcha\n"
+"POT-Creation-Date: 2016-02-01 20:00-0500\n"
+"PO-Revision-Date: 2016-02-01 20:00-0500\n"
+"Last-Translator: \n"
+"Language-Team: macnetic-labs <info@macnetic-labs.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+
+#: nf-captcha.php:15
+msgid "Plugin 'NF Captcha' deactivated, because it requires the Ninja Forms plugin to be installed and active"
+msgstr ""
+
+#: nf-captcha.php:21
+msgid "Plugin 'NF Captcha' deactivated, because it requires the Really Simple CAPTCHA plugin to be installed and active"
+msgstr ""
+
+#: nf-captcha.php:56
+msgid "really simple CAPTCHA"
+msgstr ""
+
+#: nf-captcha.php:62
+msgid "Confirm that you are not a bot"
+msgstr ""
+
+#: nf-captcha.php:81
+msgid "Error message"
+msgstr ""
+
+#: nf-captcha.php:87
+msgid "Textcolor"
+msgstr ""
+
+#: nf-captcha.php:94
+msgid "Backgroundcolor"
+msgstr ""
+
+#: nf-captcha.php:101
+msgid "Chars"
+msgstr ""
+
+#: nf-captcha.php:107
+msgid "Char length"
+msgstr ""
+
+#: nf-captcha.php:112
+msgid "Image width"
+msgstr ""
+
+#: nf-captcha.php:117
+msgid "Image height"
+msgstr ""
+
+#: nf-captcha.php:122
+msgid "Font size"
+msgstr ""
+
+#: nf-captcha.php:127
+msgid "Font char witdh"
+msgstr ""
+
+#: nf-captcha.php:132
+msgid "Image type"
+msgstr ""
